@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">netticker</string>
+    <string name="Enable_time">Enable_Time</string>
+    <string name="ToggleButton">ToggleButton</string>
 </resources>
